@@ -26,16 +26,38 @@ Part 2: Glossary to include these terms in a bulleted list.
 
 
 Branch: A "branch" is a line of development.
+
+
 Clone: Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository
+
+
 Commit: captures a snapshot of the project's currently staged changes
+
+
 Fetch: a primary command used to download contents from a remote repository
+
+
 GIT: software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development
+
+
 Github: provider of Internet hosting for software development and version control using Git
+
+
 Merge: Git's way of putting a forked history back together again
+
+
 Merge Conflict: occur when competing changes are made to the same line of a file, or when one person edits a file and another person deletes the same file
+
+
 Push: used to upload local repository content to a remote repository
+
+
 Pull: let you tell others about changes you've pushed to a branch in a repository on GitHub
+
+
 Remote: a common repository that all team members use to exchange their changes
+
+
 Repository: contains all of your project's files and each file's revision history
 
 References:
